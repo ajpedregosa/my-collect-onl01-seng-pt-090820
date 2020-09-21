@@ -1,7 +1,7 @@
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
 def my_collect(array)
-  array.split("")
+  array.split(" ").first{}
   i = 0
   collecttion 
 end
