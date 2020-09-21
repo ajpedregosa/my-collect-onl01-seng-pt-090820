@@ -1,6 +1,7 @@
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
-def my_collect(array) 
+def my_collect(array)
+  array.split("")
   i = 0
   collecttion 
 end
